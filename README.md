@@ -1,4 +1,5 @@
 # Unsupervised Pattern Discovery in Astrophysical Emission Data
+### MSc Dissertation: Clustering algorithms to detect H II regions in simulated galaxy data
 
 ## Overview
 This project applies unsupervised machine learning techniques to identify structured regions in high-dimensional spatial emission data. The goal is to discover latent patterns without labeled examples, a common challenge in both scientific and industrial machine learning applications.
